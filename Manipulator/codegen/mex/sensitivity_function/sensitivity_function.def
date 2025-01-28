@@ -1,0 +1,12 @@
+LIBRARY sensitivity_function.mexw64
+EXPORTS
+mexFunction
+mexfilerequiredapiversion
+emlrtMexFcnProperties
+sensitivity_function
+sensitivity_function_initialize
+sensitivity_function_terminate
+sensitivity_function_atexit
+emxEnsureCapacity_real_T
+emxFree_real_T
+emxInit_real_T
