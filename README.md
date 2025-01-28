@@ -20,4 +20,4 @@ If you have any problems, please contact us at our email address or open an issu
 
 ## Owners
 - **Andrea Pupa** andrea.pupa@unimore.it
-- ** Tommaso Belvedere** tommaso.belvedere@irisa.fr
+- **Tommaso Belvedere** tommaso.belvedere@irisa.fr
